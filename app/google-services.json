@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "920305958761",
+    "firebase_url": "https://foodiefriend-3e683.firebaseio.com",
+    "project_id": "foodiefriend-3e683",
+    "storage_bucket": "foodiefriend-3e683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920305958761:android:2acc2282495adae1",
+        "android_client_info": {
+          "package_name": "com.example.username.foodiefriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920305958761-jqbto6kvqp0m7l8ekkqltfp5f2klnico.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.username.foodiefriend",
+            "certificate_hash": "f26a6e60444dc3824160c30259fa02d90c024fe2"
+          }
+        },
+        {
+          "client_id": "920305958761-8q13pahbl9n6224nfq20g2n61k798grg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.username.foodiefriend",
+            "certificate_hash": "721f3e2de78c09afd0e3a3ab308cddf17fee110b"
+          }
+        },
+        {
+          "client_id": "920305958761-aou8pkf0ruidhjvbmpi4r7dqhp3k8tit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhSxk1LxpXLdGe3iN7M11fhrhAHd5GThg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920305958761-aou8pkf0ruidhjvbmpi4r7dqhp3k8tit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920305958761:android:9c1a47431ec9c483",
+        "android_client_info": {
+          "package_name": "com.example.kalla.cameraapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920305958761-aou8pkf0ruidhjvbmpi4r7dqhp3k8tit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhSxk1LxpXLdGe3iN7M11fhrhAHd5GThg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920305958761:android:f5298a2df7054714",
+        "android_client_info": {
+          "package_name": "asu.edu.foodiefriendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920305958761-aou8pkf0ruidhjvbmpi4r7dqhp3k8tit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhSxk1LxpXLdGe3iN7M11fhrhAHd5GThg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
